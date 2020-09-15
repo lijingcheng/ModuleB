@@ -30,7 +30,6 @@
 		F3820FE2250F600500F3D032 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F3820FE5250F600500F3D032 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F3820FE7250F600500F3D032 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F382126B2510CB1400F3D032 /* ModuleB-Swift.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ModuleB-Swift.h"; sourceTree = "<group>"; };
 		F382126C2510CB3000F3D032 /* ModuleB.podspec */ = {isa = PBXFileReference; lastKnownFileType = file; path = ModuleB.podspec; sourceTree = SOURCE_ROOT; };
 		F382126E2510CB6C00F3D032 /* ModuleB.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ModuleB.storyboard; sourceTree = "<group>"; };
 		F38212702510CB7B00F3D032 /* ModuleBDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModuleBDetailViewController.swift; sourceTree = "<group>"; };
@@ -90,7 +89,6 @@
 				F382126A2510CAF700F3D032 /* Class */,
 				F3820FD9250F600100F3D032 /* AppDelegate.swift */,
 				F3820FDD250F600100F3D032 /* ViewController.swift */,
-				F382126B2510CB1400F3D032 /* ModuleB-Swift.h */,
 				F382126C2510CB3000F3D032 /* ModuleB.podspec */,
 				F3820FDF250F600100F3D032 /* Main.storyboard */,
 				F3820FE2250F600500F3D032 /* Assets.xcassets */,
