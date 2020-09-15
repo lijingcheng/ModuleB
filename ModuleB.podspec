@@ -10,6 +10,7 @@ s.static_framework = true
 s.swift_version = '5.2'
 s.ios.deployment_target = '10.0'
 s.source_files = 'ModuleB/Class/*.swift'
+s.resource_bundles = { 'ModuleB' => ['ModuleB/Assets.xcassets', 'ModuleB/Class/*.{xib,storyboard}'] }
 
 s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
 
