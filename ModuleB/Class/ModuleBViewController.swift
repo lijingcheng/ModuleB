@@ -9,8 +9,8 @@
 import UIKit
 import Framework
 
-class ModuleBViewController: UIViewController {
-    override func viewDidLoad() {
+public class ModuleBViewController: UIViewController {
+    public override func viewDidLoad() {
         super.viewDidLoad()
         
         title = "ModuleBViewController"

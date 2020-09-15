@@ -8,8 +8,8 @@
 
 import UIKit
 
-class ModuleBDetailViewController: UIViewController {
-    override func viewDidLoad() {
+public class ModuleBDetailViewController: UIViewController {
+    public override func viewDidLoad() {
         super.viewDidLoad()
         
         title = "ModuleBDetailViewController"
